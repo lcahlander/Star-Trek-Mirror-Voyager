@@ -41,3 +41,8 @@ Share this repository's homepage with fellow fans: https://github.com/lcahlander
 ## Disclaimer
 
 Unofficial, noncommercial fan fiction and AI-generated concept artwork. Not affiliated with or endorsed by Paramount, CBS, or the *Star Trek* rights holders. *Star Trek* names and characters belong to their respective rights holders.
+
+## New concepts
+
+- [Modern dream cast (2026)](docs/MODERN_DREAM_CAST_2026.md) — contemporary fan casting and [new ISS Voyager bridge image](images/mirror-voyager-modern-cast-bridge.png).
+- [Q: The Trial of Empire](episodes/q-trial-of-empire.md) — a Continuum-spanning Mirror Universe story proposal.

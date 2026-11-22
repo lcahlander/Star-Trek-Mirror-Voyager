@@ -12,3 +12,5 @@ These are original fan-fiction treatments.
 - [The Price of Empire — Part One](the-price-of-empire-part-one.md) — Expanded teleplay draft.
 
 ![The Price of Empire poster](../images/the-price-of-empire-poster.png)
+
+- [Q — The Trial of Empire](q-trial-of-empire.md) — the Continuum tests Janeway's vision of humanity.
