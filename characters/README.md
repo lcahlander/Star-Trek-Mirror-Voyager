@@ -13,3 +13,7 @@ These are fan-created Mirror Universe interpretations, not canon.
 - [Neelix](neelix.md) — Smuggler and information broker
 - [Kes](kes.md) — Ocampa psychic with visions of possible futures
 - [Lon Suder](lon-suder.md) — Former Maquis operative committed to restraint
+
+### Klingon heritage
+
+- [House of Varek](../houses/house-of-varek.md) — B’Elanna’s maternal house, allied with Martok.

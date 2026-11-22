@@ -113,3 +113,11 @@ How does the Mirror crew encounter the Hirogen, Vidiians, Krenim, Species 8472, 
 ## A note to readers
 
 This is an unofficial, fan-created alternate-universe interpretation inspired by Star Trek: Voyager. It is not canonical or affiliated with the franchise rights holders. The stories and character arcs are original fan-fiction concepts developed collaboratively in conversation.
+
+# New continuity: House of Varek
+
+B’Elanna Torres is a daughter of [House Varek](../houses/house-of-varek.md) through her mother Miral. The house is a sworn ally of the House of Martok and fights Terran occupation. Its expertise in engineering and sabotage informs B’Elanna’s Maquis career.
+
+# Pilot screenplay
+
+Read [The Price of Empire — Part One](../episodes/the-price-of-empire-part-one.md) and view its [episode poster](../images/the-price-of-empire-poster.png).

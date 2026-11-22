@@ -11,15 +11,21 @@ An unofficial fan-created alternate-universe reimagining of *Star Trek: Voyager*
 - 📖 [Complete story guide](docs/STORY_GUIDE.md)
 - 👥 [Mirror Universe crew dossiers](characters/README.md)
 - 🚀 [Episode and story outlines](episodes/README.md)
+- ⚔️ [Klingon houses and alliances](houses/README.md)
+- 🎬 [Pilot: The Price of Empire — Part One](episodes/the-price-of-empire-part-one.md)
 - 💬 [How to contribute](CONTRIBUTING.md)
 
 ## Core continuity
 
 - Janeway seeks to **capture** the Caretaker’s array, not destroy it to save the Ocampa.
 - Chakotay orders **Maquis sabotage**, and Tuvok covertly helps; the array is destroyed accidentally.
-- B’Elanna retains her **Maquis background** and remains a revolutionary.
+- B’Elanna retains her **Maquis background**, and her maternal **House of Varek** is allied with the **House of Martok**.
 - Harry Kim deliberately stays an **ensign** because low rank makes him easy to underestimate.
 - The Doctor develops a conscience; Kes sees possible futures; Suder struggles to choose restraint.
+
+## New: Pilot poster
+
+![The Price of Empire pilot poster](images/the-price-of-empire-poster.png)
 
 ## Featured stories
 
